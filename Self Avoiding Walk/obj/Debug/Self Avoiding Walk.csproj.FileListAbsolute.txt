@@ -1,0 +1,12 @@
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\bin\Debug\Self Avoiding Walk.exe.config
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\bin\Debug\Self Avoiding Walk.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\bin\Debug\Self Avoiding Walk.pdb
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\obj\Debug\Self Avoiding Walk.csproj.AssemblyReference.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\obj\Debug\Self Avoiding Walk.csproj.SuggestedBindingRedirects.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\obj\Debug\Self_Avoiding_Walk.Form1.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\obj\Debug\Self_Avoiding_Walk.Form2.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\obj\Debug\Self_Avoiding_Walk.Properties.Resources.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\obj\Debug\Self Avoiding Walk.csproj.GenerateResource.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\obj\Debug\Self Avoiding Walk.csproj.CoreCompileInputs.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\obj\Debug\Self Avoiding Walk.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\Self Avoiding Walk\Self Avoiding Walk\obj\Debug\Self Avoiding Walk.pdb
